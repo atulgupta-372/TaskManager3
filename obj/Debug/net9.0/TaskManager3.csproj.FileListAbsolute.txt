@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\WebProject\TaskManager3\obj\Debug\net9.0\TaskManager3.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\WebProject\TaskManager3\obj\Debug\net9.0\TaskManager3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\WebProject\TaskManager3\obj\Debug\net9.0\TaskManager3.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\WebProject\TaskManager3\obj\Debug\net9.0\TaskManager3.AssemblyInfo.cs
+C:\Users\DELL\Desktop\WebProject\TaskManager3\obj\Debug\net9.0\TaskManager3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\WebProject\TaskManager3\obj\Debug\net9.0\TaskManager3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\WebProject\TaskManager3\obj\Debug\net9.0\TaskManager3.MvcApplicationPartsAssemblyInfo.cache
